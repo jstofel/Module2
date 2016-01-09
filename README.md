@@ -1,7 +1,4 @@
 # SISBID 2015 Visualization of Biomedical Big Data
-Notes for SISBID 2015 Visualization of Biomedical Big Data
-
-# Module 2: Visualization of Biomedical Big Data
 
 Instructors: Hadley Wickham and Dianne Cook
 
